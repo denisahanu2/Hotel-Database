@@ -50,4 +50,4 @@ Baza de date conține 8 tabele:
 
 ## Schemă conceptuală
 
-![Schema ERD](docs/schema.png)
+![Schema ERD](schema.png)
