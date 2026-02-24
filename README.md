@@ -45,5 +45,5 @@ Baza de date conține 8 tabele:
 
 - Modelare relațională  
 - Normalizare  
-- Interogări JOIN și GROUP BY  
+- Interogări diversificate și complexe
 - Integritate referențială  
