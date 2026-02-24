@@ -23,7 +23,7 @@ Baza de date conține 8 tabele:
 
 ---
 
-## 🔗 Relații
+## Relații
 
 - ONE-TO-MANY:  
   - TIPURI_CAMERA → CAMERE  
