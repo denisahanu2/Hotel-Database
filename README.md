@@ -46,4 +46,8 @@ Baza de date conține 8 tabele:
 - Modelare relațională  
 - Normalizare  
 - Interogări diversificate și complexe
-- Integritate referențială  
+- Integritate referențială
+
+## Schemă conceptuală
+
+![Schema ERD](docs/schema.png)
