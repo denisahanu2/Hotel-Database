@@ -21,8 +21,6 @@ Baza de date conține 8 tabele:
 - REZERVARI_SERVICII (tabel intermediar)
 - PLATI
 
----
-
 ## Relații
 
 - ONE-TO-MANY:  
