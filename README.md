@@ -6,8 +6,6 @@ Sistemul administrează informații despre clienți, camere, rezervări, servici
 
 Proiectul urmărește automatizarea proceselor de rezervare și monitorizarea operațiunilor hoteliere.
 
----
-
 ## Structură
 
 Baza de date conține 8 tabele:
@@ -29,25 +27,19 @@ Baza de date conține 8 tabele:
 
 - MANY-TO-MANY:  
   - REZERVARI ↔ SERVICII (implementată prin REZERVARI_SERVICII)
-
----
-
+    
 ## Constrângeri implementate
 
 - PRIMARY KEY  
 - FOREIGN KEY  
 - NOT NULL  
 - UNIQUE  
-- CHECK  
-
----
-
+- CHECK
+  
 ## Tehnologii
 
 - SQL  
 - Oracle SQL Developer  
-
----
 
 ## Concepte demonstrate
 
